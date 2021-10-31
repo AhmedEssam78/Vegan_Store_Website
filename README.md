@@ -1,1 +1,1 @@
-This project is mainly representing a vegan simple website for shopping. It's written in HTML & CSS
+This project is mainly representing a simple website for vegan-shopping. It's written in HTML & CSS
